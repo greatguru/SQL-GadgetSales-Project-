@@ -71,4 +71,7 @@ The result is so because customers may find the Amazon Echo Dot (4th Gen) more a
 On the other hand, the Canon EOS R6 is a professional-grade camera that offers advanced features and capabilities, making it a preferred choice for photography enthusiasts and professionals. However, its higher price may have limited its appeal and accessibility to a smaller customer segment, resulting in a lower quantity sold compared to the Echo Dot.
 
 Overall, the quantity sold is influenced by various factors, including price, product features, target market, marketing strategies, and customer preferences.
+
+
+End.
      
