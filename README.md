@@ -61,7 +61,7 @@ Mr. Chinedu has a shop where he sells different kinds of gadgets. He heard you a
 
 Most Expensive Device       |     Cheapest Device
 :--------------------------:|:--------------------:
-![](q10a.jpg)               |      ![](q10b.jpg)
+![](q10.jpg)               |      ![](q11.jpg)
  
  
 Based on the information gotten from the analysis above, the cheapest device, Amazon Echo Dot (4th Gen), sold 10 units, while the most expensive device, Canon EOS R6, sold 8 units. Therefore, the cheapest device had a higher quantity sold.
